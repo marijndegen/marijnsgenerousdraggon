@@ -1,5 +1,5 @@
 name: marijnsgenerousdraggon
-version: 1.0.0
+version: 1.0.2.
 main: com.marijn.generousdraggon.MarijnsGenerousDraggon
 api-version: 1.21
 description: Makes the Ender Dragon drop an Elytra.
